@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/pokemon_review.props" />
+</Project>
